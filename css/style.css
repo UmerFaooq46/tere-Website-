@@ -1,0 +1,44 @@
+@font-face {
+    font-family: gilroy;
+    src: url("../fonts/gilroy/Gilroy-Regular.ttf");
+}
+
+.font-gilroy {
+    font-family: 'gilroy' !important;
+}
+
+.btn-tbc {
+    background: #75BF7A !important;
+    color: white
+}
+
+.bg-tbc {
+    background: #75BF7A !important
+}
+
+.btn-tbc:hover {
+    background: rgba(117, 191, 122, 0.8) !important;
+}
+
+.text-tc {
+    color: #75BF7A !important;
+}
+
+#text-col:hover {
+    color: rgba(51, 47, 47, 0.486);
+}
+
+#text-col {
+    color: #000;
+}
+
+#navbarNav {
+    padding-left: 10%;
+}
+
+.tb-list> :first-child {
+    font-size: 70px;
+    color: rgb(117, 191, 122);
+    font-weight: 600;
+    line-height: 1;
+}
